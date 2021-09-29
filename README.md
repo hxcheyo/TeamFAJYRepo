@@ -1,9 +1,10 @@
 # TeamFARepo
- Faris and Ahmad's team repository for CS-1501 Week 3
+ Faris, Ahmad, Yena, and Janai's team repository for CS-1501 Week 3
 
- @FARIS
-Looks like we each need to branch this repo and do some work on it.
-That work involves a .md file and a .<any language> file
+@TEAM
+Looks like we each need to branch this repo (fork it then clone it!) and do some work on it.
+
+That work involves a .md file and a .language file (don't use carrot brackets in file names!)
 We also need to solve 1 leetcode problem in any language.
 I prefer Java, but Python seems to be recommended.
 Remember, don't edit the main branch!
